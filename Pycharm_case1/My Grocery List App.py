@@ -66,6 +66,7 @@ while True:
         case "Exit":
             break
 
+
         case "Item-listed":
             window['New-Item'].update(value=values1['Item-listed'][0])
 
